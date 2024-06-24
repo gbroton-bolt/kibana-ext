@@ -16,4 +16,12 @@ const columnsNames = [
 ```
 
 The column name is `data-test-subj` attached to the button in Kibana. </br>
-It can easily be broken but whatever ¯\\_(ツ)_/¯
+It can easily be broken but whatever `¯\_(ツ)_/¯`
+
+## Installation
+
+```
+Open Chrome and go to chrome://extensions/.
+Enable "Developer mode" using the toggle switch in the upper right corner.
+Click "Load unpacked" and select the directory of your extension.
+```
