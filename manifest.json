@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Kibana Clicker",
+  "version": "1.0",
+  "description": "Clicks buttons on a page based on data-test-subj attribute.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
