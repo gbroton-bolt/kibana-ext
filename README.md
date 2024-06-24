@@ -1,7 +1,7 @@
 ## Awesome kibana extension
 
 The purpose of it is to save your time showing your favourite columns with one click only! </br>
-Enojy! :stonks:
+Enjoy! :stonks:
 
 ## Configuration
 
@@ -16,4 +16,4 @@ const columnsNames = [
 ```
 
 The column name is `data-test-subj` attached to the button in Kibana. </br>
-It can easily be broken but whatever ¯\_(ツ)_/¯
+It can easily be broken but whatever ¯\\_(ツ)_/¯
