@@ -15,6 +15,8 @@ const columnsNames = [
 ];
 ```
 
+[!!!] To make it working side panel must be open [!!!]
+
 The column name is `data-test-subj` attached to the button in Kibana. </br>
 It can easily be broken but whatever `¯\_(ツ)_/¯`
 
