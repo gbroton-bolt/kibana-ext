@@ -3,6 +3,8 @@
 The purpose of it is to save your time showing your favourite columns with one click only! </br>
 Enjoy! :stonks:
 
+![](./kibana-ext-demo.gif)
+
 ## Configuration
 
 To select new fields, please modify content in `popup.js`:
